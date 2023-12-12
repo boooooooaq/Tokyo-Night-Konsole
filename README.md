@@ -6,7 +6,8 @@ Open Konsole and go to the appearance tab and you should see them.
 
 
 Blue:
-![1](https://github.com/boooooooaq/Tokyo-Night-Konsole/assets/81100100/d74fdfd9-5c8f-47f1-b224-1e6a0e1dcfb9)
+
+![1](https://github.com/boooooooaq/Tokyo-Night-Konsole/assets/81100100/afc8f087-d93f-42a7-a6aa-cecf9941784d)
 
 
 
